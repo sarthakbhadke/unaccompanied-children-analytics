@@ -5,7 +5,7 @@ Unaccompanied Alien Children (UAC) care pipeline managed by
 the U.S. Department of Health & Human Services.
 
 ## Live Dashboard
-[View on Streamlit Cloud](YOUR_STREAMLIT_URL_HERE)
+[View on Streamlit Cloud](https://unaccompanied-children-analytics-dfpucaqb9ud42burxgbcsc.streamlit.app/)
 
 ## Project Structure
 unaccompanied-children-analytics/
